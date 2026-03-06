@@ -6,5 +6,6 @@ This repository is a workspace for my solutions to the [FreeCodeCamp](https://ww
 
 - [Report Card Printer](https://github.com/GlebGoodkovsky/FreeCodeCamp-Python-Practice/blob/main/workshops/report-card-printer.md)
 - [Employee Profile Generator](https://github.com/GlebGoodkovsky/FreeCodeCamp-Python-Practice/blob/main/workshops/employee-profile-generator.md)
+- [Bill Spliter](https://github.com/GlebGoodkovsky/FreeCodeCamp-Python-Practice/blob/main/workshops/bill-splitter.md)
 
 ## Labs
