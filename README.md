@@ -12,3 +12,4 @@ This repository is a workspace for my solutions to the [FreeCodeCamp](https://ww
 ## Labs
 
 - [Travel Weather Planner](https://github.com/GlebGoodkovsky/FreeCodeCamp-Python-Practice/blob/main/labs/travel-weather-planner.md)
+- [Apply Discount Function](https://github.com/GlebGoodkovsky/FreeCodeCamp-Python-Practice/blob/main/labs/apply-discount-function.md)
