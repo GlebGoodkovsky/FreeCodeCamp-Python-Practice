@@ -8,6 +8,7 @@ This repository is a workspace for my solutions to the [FreeCodeCamp](https://ww
 - [Employee Profile Generator](https://github.com/GlebGoodkovsky/FreeCodeCamp-Python-Practice/blob/main/workshops/employee-profile-generator.md)
 - [Bill Spliter](https://github.com/GlebGoodkovsky/FreeCodeCamp-Python-Practice/blob/main/workshops/bill-splitter.md)
 - [Movie Ticket Booking Calculator](https://github.com/GlebGoodkovsky/FreeCodeCamp-Python-Practice/blob/main/workshops/movie-ticket-booking-calculator.md)
+- [Ceaser Cipher](https://github.com/GlebGoodkovsky/FreeCodeCamp-Python-Practice/blob/main/workshops/ceaser-cipher.md)
 
 ## Labs
 
