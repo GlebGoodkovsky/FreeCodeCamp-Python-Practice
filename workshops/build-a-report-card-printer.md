@@ -27,3 +27,5 @@ True <class 'bool'>
 80.5 <class 'float'>
 True
 ```
+
+---
