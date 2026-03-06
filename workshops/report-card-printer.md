@@ -1,4 +1,4 @@
-# Build a Report Card Printer (Workshop)
+# Report Card Printer (Workshop)
 
 ## Code
 

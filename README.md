@@ -4,6 +4,6 @@ This repository is a workspace for my solutions to the [FreeCodeCamp](https://ww
 
 ## Workshops
 
-- [Build a Report Card Printer](https://github.com/GlebGoodkovsky/FreeCodeCamp-Python-Practice/blob/main/workshops/build-a-report-card-printer.md)
+- [Report Card Printer](https://github.com/GlebGoodkovsky/FreeCodeCamp-Python-Practice/blob/main/workshops/report-card-printer.md)
 
 ## Labs
