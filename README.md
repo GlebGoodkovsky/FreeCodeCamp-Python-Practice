@@ -1,5 +1,7 @@
 # FreeCodeCamp-Python-Practice
 
+This repository is a workspace for my solutions to the [FreeCodeCamp](https://www.freecodecamp.org) [Python](https://www.python.org/) workshop and lab exercises. It’s meant to document my progress through the Python path and serve as a reference for me and anyone else who wants to review the approaches I used.
+
 ## Workshops
 
 - [Build a Report Card Printer](https://github.com/GlebGoodkovsky/FreeCodeCamp-Python-Practice/blob/main/workshops/build-a-report-card-printer.md)
