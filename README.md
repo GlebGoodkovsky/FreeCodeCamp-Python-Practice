@@ -10,3 +10,5 @@ This repository is a workspace for my solutions to the [FreeCodeCamp](https://ww
 - [Movie Ticket Booking Calculator](https://github.com/GlebGoodkovsky/FreeCodeCamp-Python-Practice/blob/main/workshops/movie-ticket-booking-calculator.md)
 
 ## Labs
+
+- [Travel Weather Planner](https://github.com/GlebGoodkovsky/FreeCodeCamp-Python-Practice/blob/main/labs/travel-weather-planner.md)
